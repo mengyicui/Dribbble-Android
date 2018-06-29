@@ -1,11 +1,2 @@
-Please check out the following branches in order, each branch except the first one is built on top of the previous one:
-- 01_navigation_drawer: Navigation drawer, shot list and bucket list UI with fake data.
-- 02_navigation_drawer_material_using_toolbar: Material design style navigation drawer implemented with Toolbar.
-- 03_mixed_type_recycler_view_shot_detail_ui: Shot detail UI implemented with mix-typed RecyclerView.
-- 04_infinite_loading_list_1: Shot list with two types of items: shot and loading animation, scroll to the bottom to see the loading animation.
-- 05_infinite_loading_list_2: Show a Toast when the loading animation at the bottom of the list appears on the screen.
-- 06_infinite_loading_list_3: Load more when the load animation appears on the screen from the bottom.
-- 07_infinite_loading_list_4: Loading animation no longer appears when there's no more item on the list.
-- 08_image_loading_picasso: Image loading with Picasso library.
-- 09_image_loading_glide: Image loading with Glide library.
-- 10_image_loading_fresco: Image loading with Fresco library.
+Dribbble App
+
